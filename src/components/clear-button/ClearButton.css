@@ -1,25 +1,12 @@
-.btn-wrapper {
+.clear-btn {
     height: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: lighter;
+    font-weight: 400;
     font-size: 1.4rem;
     background-color: rgb(59, 55, 55);
     color: ghostwhite;
     flex: 1;
     outline: 1px solid #888888;
-    font-weight: 700;
-}
-
-.operator {
-    background-color: rgb(235, 111, 45);
-}
-
-#equal {
-    flex: 0.333;
-}
-
-#divide {
-    flex: 0.666;
 }
